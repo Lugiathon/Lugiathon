@@ -1,6 +1,6 @@
 # Hi, I'm Lugiathon 👋
 
-<img src="assets/portrait.png" alt="Illustrated portrait of a student coding at a desk" width="280" align="right">
+<img src="assets/portrait.jpg" alt="Illustrated portrait of a student coding at a desk" width="280" align="right">
 
 I'm a high school student who uses coding to share ideas and solve everyday problems. I like starting with a question, building a small tool, and learning from what happens when I try it.
 
